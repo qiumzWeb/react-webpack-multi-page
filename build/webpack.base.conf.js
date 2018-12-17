@@ -99,16 +99,6 @@ module.exports = {
             }
         ]
     },
-    // js 中引入的样式处理
-    // postcss: [autoprefixerConf],
-    // eslint: {
-    //     formatter: require('eslint-friendly-formatter')
-    // },
-    // vue: {
-    //     // .vue 中的样式处理
-    //     loaders: utils.cssLoaders({ sourceMap: useCssSourceMap }),
-    //     postcss: [autoprefixerConf]
-    // },
     plugins:[]
     }
 var pages = utils.getEntries('./src/views/**/*.html',1);
