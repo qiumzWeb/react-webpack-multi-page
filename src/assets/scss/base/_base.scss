@@ -1,0 +1,5 @@
+@import "cssreset.scss";
+@import "function.scss";
+@import "mixin.scss";
+html{font-size:calc(10vw);}
+body{max-width:1024px; margin:0 auto; font-family: "Microsoft YaHei","\5fae\8f6f\96c5\9ed1","\5b8b\4f53",sans-serif; }
